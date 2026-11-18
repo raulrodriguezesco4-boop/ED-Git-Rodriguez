@@ -1,0 +1,3 @@
+proyecto=PortalAula
+funciones=base
+idioma=es
