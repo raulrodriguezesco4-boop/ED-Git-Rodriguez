@@ -1,3 +1,4 @@
 proyecto=PortalAula
-funciones=base,avisos
+funciones=base,avisos,estadisticas
+estadisticas
 idioma=es
